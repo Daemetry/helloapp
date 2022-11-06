@@ -1,6 +1,6 @@
 ﻿using System;
 
-Console.WriteLine("hello");
+Console.WriteLine("hello everyone");
 
 static void HelloWhite()
 {
